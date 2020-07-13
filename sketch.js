@@ -10,8 +10,7 @@ var colorDec, colorDecAnim;
 // INITIALIZE ALL YOUR VARIABLES
 // Ideally you would create 3 variables. red blue green or r, g, b
 function preload() {
-  colorDecAnim = loadImage("circle.png");
-
+  colorDecAnim = loadImage("Circle.png");
 }
 
 function setup(){
